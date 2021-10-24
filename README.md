@@ -1,6 +1,6 @@
 ## Hi there :wave:, I'm Burak Yasin :metal: 
 <p>
-- 🌱 I’m currently learning Flutter and JS.
+- 🌱 I’m currently learning Flutter.
 </p>
 <img src="https://komarev.com/ghpvc/?username=bybdev" alt="https://github.com/bybdev" />
 
