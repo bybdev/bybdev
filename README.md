@@ -6,7 +6,7 @@
 
 ## Social
 <p>
-<a href="https://www.instagram.com/brkysnbll"><img src="https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=gray"></a>
+<a href="https://www.instagram.com/burakyasinbelli"><img src="https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=gray"></a>
 <a href="https://twitter.com/ysnbrkbll"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
