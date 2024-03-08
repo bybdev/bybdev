@@ -2,7 +2,7 @@
 <p>
 - 🌱 
 </p>
-<img src="https://komarev.com/ghpvc/?username=bybdev" alt="https://github.com/bybdev" />
+
 
 ## Social
 <p>
